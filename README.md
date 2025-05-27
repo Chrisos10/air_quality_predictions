@@ -57,7 +57,6 @@ The goal is to build an accurate time-series prediction model using **Long Short
   - Patience = 10–15 epochs to prevent overfitting.
 
 - **Loss Metrics**:
-  - `MSE` (Mean Squared Error) – primary training loss.
   - `RMSE` (Root Mean Squared Error) – metric for model comparison.
 
 - **Best Model**:
@@ -83,12 +82,3 @@ A table containing the results and performance of each model can be found in the
 - **Sequence Length**: Experiment with **longer time windows (24h or more)** to improve long-term forecasting.
 
 ---
-
-##  How to Reproduce
-
-### 1. Setup
-
-```bash
-git clone [your-repo-link]
-cd beijing-air-quality-forecasting
-pip install -r requirements.txt
