@@ -1,6 +1,6 @@
-# 🌫️ Beijing Air Quality Forecasting (PM2.5 Prediction)
+# Beijing Air Quality Forecasting (PM2.5 Prediction)
 
-## 🧠 Project Overview
+## Project Overview
 
 This project focuses on forecasting PM2.5 (particulate matter ≤2.5µm) concentrations in **Beijing** using historical air quality and weather data.  
 The goal is to build an accurate time-series prediction model using **Long Short-Term Memory (LSTM)** networks, enabling **proactive pollution control** measures.
