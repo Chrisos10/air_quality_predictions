@@ -60,7 +60,7 @@ The goal is to build an accurate time-series prediction model using **Long Short
   - `RMSE` (Root Mean Squared Error) – metric for model comparison.
 
 - **Best Model**:
-  - `Model 7` (Bidirectional LSTM) achieved the **lowest validation loss**.
+  - `Model 8` (Bidirectional LSTM) achieved the **lowest validation loss** of 5329.9 .
 
 ---
 
