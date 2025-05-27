@@ -69,10 +69,10 @@ The goal is to build an accurate time-series prediction model using **Long Short
 A table containing the results and performance of each model can be found in the report file that is uploaded here. However, we have;
 ### Key Findings
 
-- 🔹 **Bidirectional LSTMs** outperformed standard LSTMs by capturing patterns in both directions.
-- 🔹 `RMSprop` with `lr=0.0002` and dropout of `0.15` yielded stable convergence.
-- 🔹 **Deeper LSTM networks (3+ layers)** improved performance when combined with proper regularization.
-- 🔹 **Missing data interpolation + forward fill** preserved time-series structure effectively.
+- **Bidirectional LSTMs** outperformed standard LSTMs by capturing patterns in both directions.
+- `RMSprop` with `lr=0.0002` and dropout of `0.15` yielded stable convergence.
+- **Deeper LSTM networks (3+ layers)** improved performance when combined with proper regularization.
+- **Missing data interpolation + forward fill** preserved time-series structure effectively.
 
 ---
 
